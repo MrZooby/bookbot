@@ -3,6 +3,7 @@ BookBot is my first project!
 
 Example of output: 
 
+'''
 --- Begin report of books/frankenstein.txt ---
 77986 words found in the document
 
@@ -33,3 +34,4 @@ The 'j' character was found 504 times
 The 'q' character was found 324 times
 The 'z' character was found 243 times
 --- End report ---
+'''
